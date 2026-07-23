@@ -1,4 +1,4 @@
-<img width="1917" height="1078" alt="dashboard" src="https://github.com/user-attachments/assets/45032ddc-e341-4b51-85f6-ffee4dd0a0af" /># Zomato-Restaurant-Analytics
+
 Interactive Restaurant Analytics Dashboard using SQL, Power BI, and Excel.
 # 🍽️ Zomato Restaurant Analytics Dashboard
 
@@ -48,12 +48,6 @@ The dashboard includes:
 ---
 
 ## 📷 Dashboard Preview
-<img width="1917" height="1078" alt="dashboard" src="https://github.com/user-attachments/assets/fb10db83-630b-41c0-a599-250704bc4f82" />
-
-
-
-
-
 ![Dashboard](dashboard.png)
 
 ---
